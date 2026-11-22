@@ -1,0 +1,2 @@
+bin.name = "eza"
+args = "tests/itest/exa --recurse --level=2 --oneline"
